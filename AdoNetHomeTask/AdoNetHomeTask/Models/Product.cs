@@ -8,10 +8,7 @@ namespace AdoNetHomeTask.Models;
 
 public class Product
 {
-    public Product()
-    {
-        
-    }
+    public Product() { }
     public Product(string name, decimal price)
     {
         Name = name;

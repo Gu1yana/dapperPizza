@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdoNetHomeTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e198a6914d970ca6857d49b2cebc298311608c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b20825a4bf944f23dc8ad21fdf952c2561d9da1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdoNetHomeTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdoNetHomeTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
